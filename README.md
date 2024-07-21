@@ -23,7 +23,7 @@ The dataset used in this analysis includes information on individuals such as th
 
 ## Files
 
-- `data.csv`: The dataset used for analysis.
+- `Sleep health and lifestyle dataset.csv`: The dataset used for analysis.
 - `stress-analysis.ipynb`: Jupyter notebook containing the code for data analysis and visualization.
 - `visualizations/`: Directory containing visualizations such as pair plots and bubble charts.
 
